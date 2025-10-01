@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46a16c9e-226e-4f80-85e4-227fc092b2a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/domain.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/domain2.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/domain2_cross.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/dyn_tasks.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/elements.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/gshop.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/gshop1.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/gshop2.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/task_npc.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/element/data/tasks.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/1.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/1.dhmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/1.rmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/airmap/1.octr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/airmap/spmap.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/map.bht" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/map/1.hmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/movemap/1.dhmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/movemap/1.rmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/movemap/movemap.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/npcgen.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/path.sev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/precinct.sev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/region.sev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/watermap/1.wmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/a31/watermap/watermap.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/aipolicy.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/domain.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/domain2.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/domain2_cross.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/dyn_tasks.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/elements.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/gshop.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/gshop1.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/gshop2.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/task_npc.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/gamed/config/tasks.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/license.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/home/stop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/server/var/www/html/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sql/arena.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sql/pw.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/client/ClientTestPlan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/server/ServerTestPlan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="kotlin.jupyter.empty" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VYCHESLAV1988&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VYCHESLAV1988/GamePW162.git&quot;,
+    &quot;accountId&quot;: &quot;3684aa2f-230a-4102-9262-7e6ad3c54c70&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="33TQsTWgC8lbKoADgS6n0GbJPDu" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "F:/QA_30_AUTO/GamePW162/src/server/home/gamed/config"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT",
+      "yaml"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\QA_30_AUTO\GamePW162\src\server\home\gamed\config" />
+      <recent name="F:\QA_30_AUTO\GamePW162\src\client\element\data" />
+      <recent name="F:\QA_30_AUTO\GamePW162\src\server\home\gamed\config\a31" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\QA_30_AUTO\GamePW162\src\server\home\gamed\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ProjectTestGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ProjectTestGame" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a16c9e-226e-4f80-85e4-227fc092b2a9" name="Changes" comment="" />
+      <created>1759338789643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759338789643</updated>
+    </task>
+    <servers />
+  </component>
+</project>
